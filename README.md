@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="banner.gif" width="100%" height="400px">
+</div>
+
 # PORTFÓLIO PESSOAL
 
 
@@ -50,26 +54,42 @@ Com cada passo que dou, estou determinado a adquirir habilidades sólidas e conh
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarlonMLN)
 
 
-
 ## 🧑‍💼Experiência Profissional:
+
+<div style="border: 1px solid #ccc; border-radius: 10px; padding: 10px; margin-bottom: 20px;">
 
 - **2021 - 2024**
   - **TRACTEBEL - ENGIE**
   - **PROJETISTA**
   - Levantamento, Elaboração e desenvolvimento de projetos de SPCI e de estruturas metálicas, desenhos detalhados e As Built.
 
+</div>
+
+<div style="border: 1px solid #ccc; border-radius: 10px; padding: 10px; margin-bottom: 20px;">
+
 - **2020 - 2021**
   - **EBS EMPRESA BRASILEIRA DE SERVIÇOS**
   - **TÉCNICO DE PLANEJAMENTO E MEDIÇÃO**
   - Elaboração de cronogramas físico e medição da obra de montagem de rede elétrica.
+
+</div>
+
+<div style="border: 1px solid #ccc; border-radius: 10px; padding: 10px; margin-bottom: 20px;">
 
 - **2018 - 2020**
   - **MANSERV MANUTENÇÃO**
   - **TÉCNICO DE PLANEJAMENTO**
   - Elaboração de planejamento, cronogramas físico e controle em obra manutenção montagem eletromecânica.
 
+</div>
+
+<div style="border: 1px solid #ccc; border-radius: 10px; padding: 10px; margin-bottom: 20px;">
+
 - **2016 - 2017**
   - **VEIGA ENGENHARIA**
   - **PROJETISTA**
   - Levantamento, Elaboração e desenvolvimento de projetos de SPCI e de estruturas metálicas, desenhos detalhados e As Built.
+
+</div>
+
 
