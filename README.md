@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="banner.gif" width="100%" height="400px">
-</div>
-
 # PORTFÓLIO PESSOAL
 
 
@@ -15,8 +11,6 @@ Sou um entusiasta novato no mundo da tecnologia, movido por uma imensa vontade d
 Com cada passo que dou, estou determinado a adquirir habilidades sólidas e conhecimento profundo na criação e gestão de software. Estou animado com as perspectivas que a área de Engenharia de Software oferece e estou comprometido em enfrentar os desafios com dedicação e entusiasmo. Minha transição de uma carreira na engenharia industrial para o mundo da tecnologia representa um novo capítulo emocionante em minha jornada profissional, e estou ansioso para aprender, crescer e contribuir para esse campo em constante evolução.
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SEUUSERNAME&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 
 ## 🛠️Habilidades:
