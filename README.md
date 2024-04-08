@@ -6,7 +6,7 @@ Olá! Sou Marlon Marques Vieira, futuro Engenheiro de Software e Engenheiro de D
 
 ## Sobre Mim
 
-Sou um entusiasta novato no mundo da tecnologia, movido por uma imensa vontade de ingressar nesse campo dinâmico. Atualmente, sou estudante de Engenharia de Software e estou comprometido em trilhar um caminho de especialização no desenvolvimento e gerenciamento de software. Minha jornada profissional até agora tem sido na área de engenharia industrial, onde atuei como projetista mecânico e técnico de planejamento. No entanto, sinto uma forte chamada para seguir uma nova direção e explorar o fascinante universo da tecnologia.
+Sou um entusiasta do mundo da tecnologia, movido por uma imensa vontade de ingressar nesse campo dinâmico. Atualmente, sou estudante de Engenharia de Software e estou comprometido em trilhar um caminho de especialização no desenvolvimento e gerenciamento de software. Minha jornada profissional até agora tem sido na área de engenharia industrial, onde atuei como projetista mecânico e técnico de planejamento. No entanto, sinto uma forte chamada para seguir uma nova direção e explorar o fascinante universo da tecnologia.
 
 Com cada passo que dou, estou determinado a adquirir habilidades sólidas e conhecimento profundo na criação e gestão de software. Estou animado com as perspectivas que a área de Engenharia de Software oferece e estou comprometido em enfrentar os desafios com dedicação e entusiasmo. Minha transição de uma carreira na engenharia industrial para o mundo da tecnologia representa um novo capítulo emocionante em minha jornada profissional, e estou ansioso para aprender, crescer e contribuir para esse campo em constante evolução.
 
